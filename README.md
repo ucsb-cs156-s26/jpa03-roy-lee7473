@@ -1,6 +1,6 @@
 # STARTER-jpa03
 
-Running at: <https://jpa03-roy-lee7473.dokku-06.cs.ucsb.edu/>
+Running at: https://jpa03-roy-lee7473.dokku-06.cs.ucsb.edu/
 
 # Configuring GitHub Pages for the documentation
 
